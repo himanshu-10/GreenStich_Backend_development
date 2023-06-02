@@ -25,7 +25,7 @@ cd GreenStich_Backend_Assignment/GreenStitch_Backend_Assignment
 ```
 
 ### 3. Run the Application
-- For Windows
+- For GitBash
 ```
 ./mvnw spring-boot:run
 
