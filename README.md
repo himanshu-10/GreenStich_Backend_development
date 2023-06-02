@@ -17,20 +17,19 @@ This project is a backend implementation of a login and signup REST API with sec
 git clone https://github.com/Shimbhu77/GreenStich_Backend_Assignment.git
 ```
 
-### 2. Build the Project
+### 2. Go the Project
 
 ```
-cd GreenStich_Backend_Assignment/
-mvn clean install
+cd GreenStich_Backend_Assignment/GreenStitch_Backend_Assignment
 
 ```
 
 ### 3. Run the Application
+- For Windows
+```
+./mvnw spring-boot:run
 
 ```
-mvn spring-boot:run
-```
-
 **The application will start running on [http://localhost:8081](http://localhost:8081)**
 
 ### **API Endpoints**
